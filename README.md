@@ -4,11 +4,11 @@ Using Reinforcement Learning with Acme to solve the Mountain Car 🚗
 *.py[co]
 
 # Requirements
-You can see all the Requirements in the requirements.txt
+You can see all the Requirements in the [requirements.txt](https://github.com/gabrielmayers/mountain_car-RL/blob/master/requirements.txt)
 
 ## Installation
 
-Use the requirements.txt to install all dependencies
+Use the [requirements.txt](https://github.com/gabrielmayers/mountain_car-RL/blob/master/requirements.txt) to install all dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -24,4 +24,9 @@ python main.py
 ```
 
 # Additional Info
+
 For this particular problem, I decide to use the [Acme Framework](https://deepmind.com/research/publications/Acme) from [DeepMind](https://deepmind.com/)
+
+# To visualize the Results:
+
+After finalize the training, a .mp4 file will be generated with the final result!
