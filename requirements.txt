@@ -17,7 +17,7 @@ cloudpickle==1.3.0
 colorlover==0.3.0
 command-not-found==0.3
 conda==4.3.16
-cryptography==2.1.4
+cryptography==2.3
 cufflinks==0.17.3
 cupshelpers==1.0
 cycler==0.10.0
