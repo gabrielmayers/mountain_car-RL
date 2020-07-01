@@ -1,8 +1,6 @@
 # mountain_car-RL
 Using Reinforcement Learning with Acme to solve the Mountain Car 🚗
 
-*.py[co]
-
 # Requirements
 You can see all the Requirements in the [requirements.txt](https://github.com/gabrielmayers/mountain_car-RL/blob/master/requirements.txt)
 
