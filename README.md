@@ -1,5 +1,5 @@
 # mountain_car-RL
-Using Reinforcement Learning with Acme to solve the Mountain Car 🚗
+Using Reinforcement Learning with Acme to solve the Mountain Car Environment 🚗
 
 # Requirements
 You can see all the Requirements in the [requirements.txt](https://github.com/gabrielmayers/mountain_car-RL/blob/master/requirements.txt)
@@ -23,7 +23,7 @@ python main.py
 
 # Additional Info
 
-For this particular problem, I decide to use the [Acme Framework](https://deepmind.com/research/publications/Acme) from [DeepMind](https://deepmind.com/)
+For this particular problem, I decided to use the [Acme Framework](https://deepmind.com/research/publications/Acme) from [DeepMind](https://deepmind.com/)
 
 # To visualize the Results:
 
