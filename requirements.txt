@@ -89,7 +89,7 @@ tfp-nightly==0.11.0.dev20200605
 tifffile==2020.6.3
 traitlets==4.3.3
 trfl==1.1.0
-urllib3==1.25.9
+urllib3==1.26.5
 wcwidth==0.2.3
 Werkzeug==1.0.1
 wrapt==1.12.1
